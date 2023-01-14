@@ -111,7 +111,7 @@ h6 {
 
 #wallpaper_underline::after {
     content: "";
-    width: 82px;
+    width: 78px;
     height: 2.5px;
     background-color: #C04000;
     position: absolute;
@@ -1733,15 +1733,30 @@ h6 {
 }
 
 /* --------------------Wallpaper Page-------------------- */
-#wallpaperpage-body {
-    background-color: #ffddcb;
-    width: 100%;
+#wallpaper-section h3{
+    margin: 15px auto;
 }
 
-#wallpaperSection {
-    /* border: 3px solid black; */
-    background-color: white;
-    padding: 20px 0;
-    width: 97%;
-    margin: 30px auto 0 auto;
+#wallpaper-section{
+    margin: 15px auto;
+}
+
+/* --------------------Merchandise Page-------------------- */
+#div1 h3{
+    margin: 15px auto;
+}
+
+/* --------------------Merchandise Page-------------------- */
+#div2 h3{
+    margin: 15px auto;
+}
+
+/* --------------------Merchandise Page-------------------- */
+#div3 h3{
+    margin: 15px auto;
+}
+
+/* --------------------Merchandise Page-------------------- */
+#div4 h3{
+    margin: 15px auto;
 }
