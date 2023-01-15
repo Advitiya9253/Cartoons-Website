@@ -201,7 +201,7 @@ h6 {
 #wallpaperSection {
     border: 1px solid rgb(58, 58, 58);
     box-shadow: 0 0 7.5px rgb(58, 58, 58);
-    border-radius: 15px;
+    border-radius: 5px;
     background-color: white;
     padding: 25px 0;
     width: 97%;
@@ -283,7 +283,7 @@ h6 {
 #productSection {
     border: 1px solid rgb(58, 58, 58);
     box-shadow: 0 0 7.5px rgb(58, 58, 58);
-    border-radius: 15px;
+    border-radius: 5px;
     background-color: white;
     margin: 40px auto;
     padding: 25px 0;
@@ -373,7 +373,7 @@ h6 {
 #benefitsSection {
     border: 1px solid rgb(58, 58, 58);
     box-shadow: 0 0 7.5px rgb(58, 58, 58);
-    border-radius: 15px;
+    border-radius: 5px;
     background-color: white;
     padding: 25px 0;
     width: 97%;
@@ -445,7 +445,7 @@ h6 {
 #blogSection {
     border: 1px solid rgb(58, 58, 58);
     box-shadow: 0 0 7.5px rgb(58, 58, 58);
-    border-radius: 15px;
+    border-radius: 5px;
     background-color: white;
     margin: 40px auto;
     padding: 25px 0;
